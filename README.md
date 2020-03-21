@@ -6,8 +6,13 @@ This repo contains code providing solution for below queries using the World Ban
 Create a dataframe with the missing names filled in.
 
 This code is written in Python & Jupyter and covers below key concepts
+
 • Reading and manipulating JSON data
+
 • Data wrangling & cleaning
+
 • Flattening JSON structure
+
 • Usage of json_normalize
+
 • Use of Pandas Libraries and Function
